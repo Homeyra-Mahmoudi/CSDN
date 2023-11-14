@@ -1,7 +1,15 @@
 <template>
-    <div class="lg:container mx-auto">
+    <div class="lg:container mx-auto md:pl-44 md:pr-44">
         <div class="sm:grid sm:py-6 bg-pink-950">
-            <p class="font-Roboto text-5xl text-white text-center italic font-thin">MALATTIA E DISCRIMINAZIONE: QUESTIONI APERTE</p>
+            <p class="font-Roboto text-5xl pb-8 text-white text-center italic font-thin">INCONTRO - DIBATTITO</p>
+            <p class="font-Roboto text-5xl text-white text-center  font-normal">NUOVE BUONE PRASSI DELLA SEZIONE LAVORO E DEONTOLOGIA</p>
+        </div>
+        <div class="sm:grid sm:py-6 bg-pink-950">
+            <p class="font-Roboto text-3xl text-white text-center italic font-bold">GIOVEDÌ 14 DICEMBRE 2023, ore 17.00-20.00</p>
+            <p class="font-Roboto text-2xl text-white text-center font-normal">Fondazione Fulvio Croce:
+Avvocatura Torinese
+Palazzo Capris
+Via Santa Maria n. 1 - Torino</p>
         </div>
         <div class="grid lg:grid-cols-2 gap-4 bg-pink-950 py-6">
         <div class="sm:px-14">

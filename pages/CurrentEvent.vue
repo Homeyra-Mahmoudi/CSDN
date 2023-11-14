@@ -1,6 +1,6 @@
 <template>
     <div>
-        <current-event-banner />
+        
         <scheduale-of-the-currentevent />
     </div>
 </template>
@@ -9,10 +9,10 @@
 
 
 import SchedualeOfTheCurrentevent from '../components/CurrentEvent/Scheduale-of-the-currentevent.vue'
-import CurrentEventBanner from '~/components/CurrentEvent/Current-event-banner.vue'
+
 
 export default {
-  components: { CurrentEventBanner, SchedualeOfTheCurrentevent},
+  components: { SchedualeOfTheCurrentevent},
   layout: 'default'
 
 }
