@@ -2,7 +2,9 @@
 <template>
     <nav>
       <div id="logo">
-        <img src="/logo-tresized.png" alt="Logo" />
+        <router-link to="/">
+          <img src="/logo-tresized.png" alt="Logo" />
+        </router-link>
       </div>
 
       <ul class="nav-links">

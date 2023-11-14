@@ -7,8 +7,8 @@
     <chi-presente /> 
     <current-event-banner />-->
     <home-banner />   
-    <scorpi-passati-eventi />
-    <card-eventi-passati />
+    <!-- <scorpi-passati-eventi />
+    <card-eventi-passati /> -->
 
   </div>
 </template>
@@ -19,14 +19,14 @@ import HomeBanner from '~/components/Home/home-banner.vue'
 // import HomeRowBanner from '~/components/Home/home-row-banner.vue'
 // import ChiPresente from '~/components/Home/Chi-presente.vue'
 // import CurrentEventBanner from '~/components/CurrentEvent/Current-event-banner.vue'
-import ScorpiPassatiEventi from '~/components/Home/scorpi-passati-eventi.vue'
-import CardEventiPassati from '~/components/Home/card-eventi-passati.vue'
+// import ScorpiPassatiEventi from '~/components/Home/scorpi-passati-eventi.vue'
+// import CardEventiPassati from '~/components/Home/card-eventi-passati.vue'
 
 
 
 
 export default {
-  components: {HomeBanner, ScorpiPassatiEventi, CardEventiPassati},
+  components: {HomeBanner},
   layout: 'default',
   
 }
