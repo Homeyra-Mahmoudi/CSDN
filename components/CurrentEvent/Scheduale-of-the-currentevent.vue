@@ -44,8 +44,9 @@ Via Santa Maria n. 1 - Torino</p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 14</p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left sm:pb-14"><span class="font-bold">Dott.ssa Lucia Tria</span>, Presidente di sezione Corte di Cassazione Sez. Lavoro “Malattia e disabilità del lavoratore davanti alla Corte di Cassazione”</p> -->
         </div>
-        <div class="sm:px-14 sm:py-14">
+        <div class="sm:px-14 sm:py-8">
             <p class="font-Roboto font-thin text-xl italic text-white text-left ">Seguirà il consueto buffet natalizio per lo scambio di auguri.</p>
+            
             <!-- <p class="font-Roboto font-thin text-xl italic text-white text-left "><span class="font-bold">Avv.to GIOVANNA PACCHIANA PARRAVICINI</span>, Presidente AGI Piemonte Valle d'Aosta</p>
             <p class="font-Roboto font-thin text-xl italic text-white text-left "><span class="font-bold">Dott.ssa DANIELA PALIAGA,</span>, Presidente Centro Studi Sezione Piemonte e Presidente della sezione lavoro del Tribunale di Torino</p> -->
             <!-- <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 12.30 - 12.45 </p>
@@ -54,6 +55,18 @@ Via Santa Maria n. 1 - Torino</p>
             <p class="font-Roboto font-bold text-3xl italic text-white text-left sm:pb-14">Light lunch</p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 14</p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left sm:pb-14"><span class="font-bold">Dott.ssa Lucia Tria</span>, Presidente di sezione Corte di Cassazione Sez. Lavoro “Malattia e disabilità del lavoratore davanti alla Corte di Cassazione”</p> -->
+        </div>
+        <div class="sm:px-14">
+            <p class="font-Roboto font-bold text-3xl italic text-white text-left ">Solo per gli avvocati:</p>
+            <p class="font-Roboto font-thin text-xl italic text-white text-left ">L'evento è riservato agli associati del Centro Studi e dell’AGI Piemonte Valle dAosta.
+                Per la certificazione dei crediti formativi (gratuita per gli iscritti in regola con la
+                quota 2023) occorre iscrizione tramite mail a
+                <span class="underline">presidenzapiemonte@giuslavoristi.it</span> per i soci AGI Piemonte e Valle d'Aosta e
+                a rcarapelle@carapelle-clivio.it per i soci del Centro Studi.
+                Per limiti di accesso al locale la partecipazione in presenza sarà riservata ai
+membri dei due direttivi ed ai primi 80 iscritti.
+L'evento è in corso di accreditamento presso il COA di Torino per crediti in
+materia di deontologia.</p>
         </div>
         <!-- <div class="sm:px-14">
 

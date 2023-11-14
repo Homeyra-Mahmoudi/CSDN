@@ -17,10 +17,10 @@ export default {
   generate: {
     routes: ['/', '/ChiSiamo', '/EventiPassati', '/CurrentEvent']
   },
-  
-  router: {
-    base: 'C:\Users\Claudio\Desktop\csdn'
-  },
+
+  // router: {
+  //   base: 'C:\Users\Claudio\Desktop\csdn'
+  // },
 
 
   // Global CSS: https://go.nuxtjs.dev/config-css
