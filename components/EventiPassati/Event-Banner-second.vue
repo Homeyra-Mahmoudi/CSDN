@@ -3,15 +3,21 @@
       <div class="grid lg:grid-cols-2 ">
     
         <div class="basis-1/2 bg-light-blue-row bg-opacity-50 sm:py-4">
-        <P class="font-Roboto text-5xl text-black font-normal sm:pl-14 sm:pr-8 sm:pt-20">Incontro - Dibattito</P>
-        <p class="font-Roboto text-3xl text-black font-normal sm:pl-14 sm:pr-8 sm:pt-8 sm:pb-1 whitespace-break-spaces ">4 maggio 2023 
-  Aula Magna del Palazzo di Giustizia
+        <P class="font-Roboto md:text-3xl text-black font-normal pl-14 pr-8 pt-4">Incontro - Dibattito</P>
+        <p class="font-Roboto md:text-xl text-black font-normal pl-14 pr-8 pt-2 whitespace-break-spaces ">RIFORMA CARTABIA E RIFLESSI SUL PROCESSO DEL LAVORO
       </p>
-        <p class="font-Roboto text-xl text-black font-extrathin sm:pl-14 sm:pr-8 whitespace-break-spaces">Matera, 4 maggio 2023, ore 16.00 - 19.00, c/o Camera di Commercio Matera, via Lucana n. 82
-  L'evento è organizzato dal Centro Nazionale Studi di Diritto del Lavoro "D. Napoletano" - Sezione Lucania in collaborazione con l'Ordine degli Avvocati di Matera e con il patrocinio di Comune di Matera, ANCI Basilicata e ALI Basilicata</p>
+        <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">MERCOLEDI’ 28 GIUGNO 2023, ore 17.00-19.00</p>
+        <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">Palazzo di giustizia Maxi Aula 1</p> 
+      <p class="font-Roboto md:text-xl text-black font-extrathin pb-2 pt-4 pl-14 pr-8 whitespace-break-spaces">PRESIEDE E MODERA:</p>
+      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Dott.ssa DANIELA PALIAGA</span>, Presidente Centro Studi Sezione Piemonte e
+Presidente della sezione lavoro del Tribunale di Torino</p> 
+<p class="font-Roboto md:text-xl text-black font-extrathin pb-2 pt-4 pl-14 pr-8 whitespace-break-spaces">RELAZIONANO:</p>
+      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Prof. Avv.to Giorgio Frus, Foro di Torino</span></p>
+      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Dr. Mauro Mollo, Magistrato Tribunale di Torino Sezione Lavoro</span></p>
+      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">eguirà dibattito</span></p>
         </div>
-        <div class="slideshow-container bg-light-blue-row bg-opacity-50 basis-1/2 sm:pr-14 sm:py-4">
-          <img class="mx-auto" src="/EventiPassatii/slide 2.png" alt="event pics"/>
+        <div class="slideshow-container bg-light-blue-row bg-opacity-50 basis-1/2 pr-14 py-4">
+          <img class="max-w-full h-auto pl-14" src="/EventiPassatii/slide 2.png" alt="event pics"/>
   <!--             
                 <transition-group name="slide-fade" tag="div">
                   <div v-for="(image, index) in images" :key="generateSlideKey(image, index)" class="mySlides">

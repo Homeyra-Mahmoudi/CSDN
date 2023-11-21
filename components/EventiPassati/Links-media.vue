@@ -2,7 +2,7 @@
     <div class="lg:container mx-auto">
         <div class="grid lg:grid-cols-3 gap-10 bg-blue-950 px-14 py-6">
             <div class="bg-basic-light-blue rounded-lg sm:pl-4 sm:pt-2">
-                <p class="font-Roboto text-2xl text-black font-normal">Archive of slides</p>
+                <p class="font-Roboto text-2xl text-black font-normal">Archivio di Diapositive </p>
                 <ul class="list-image-[url(/EventiPassatii/Presentation.svg)] list-inside sm:pl-2 sm:py-4">
                     <a  href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">L'Impatto delle Riforme del Lavoro: Un'Analisi del Centro Studi Diritto del Lavoro</li></a>
                     <a href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">Diritto del Lavoro e Cambiamenti Legislativi: Il Contributo del Centro Studi</li></a>
@@ -15,7 +15,7 @@
                 </ul>
             </div>
             <div class="bg-basic-light-blue rounded-lg sm:pl-4 sm:pt-2">
-                <p class="font-Roboto text-2xl text-black font-normal">Archive of slides</p>
+                <p class="font-Roboto text-2xl text-black font-normal">Archivio di Immagini</p>
                 <ul class="list-image-[url(/EventiPassatii/camera-round-svgrepo-com.svg)] list-inside sm:pl-2 sm:py-4">
                     <a  href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">Centro Studi Diritto del Lavoro: Workshop sull'Occupazione</li></a>
                     <a href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">Conferenza Giuridica: Il Ruolo del Centro Studi nel Diritto del Lavoro</li></a>
@@ -28,7 +28,7 @@
                 </ul>
             </div>
             <div class="bg-basic-light-blue rounded-lg sm:pl-4 sm:pt-2">
-                <p class="font-Roboto text-2xl text-black font-normal">Archive of slides</p>
+                <p class="font-Roboto text-2xl text-black font-normal">Archivio di Pubblicazione</p>
                 <ul class="list-image-[url(/EventiPassatii/book-round-svgrepo-com.svg)] list-inside sm:pl-2 sm:py-4">
                     <a  href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">Ricerca Avanzata nel Diritto del Lavoro: Pubblicazioni del Centro Studi</li></a>
                     <a href="https://www.temporary-url.com/404.php"  target="_blank"><li class="font-Roboto text-xl text-black font-normal hover:text-sky-500">Legislazione sul Lavoro: Contributi Accademici dal Centro Studi</li></a>

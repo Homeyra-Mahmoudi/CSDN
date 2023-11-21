@@ -38,7 +38,8 @@ module.exports = {
         'footer-black-darker': '#000000',
         'basic-light-blue': '#C4CAEC',
         'light-blue-row': '#E8EAF6',
-        'Eventi-Passati-bg': '#C3C6E7'
+        'Eventi-Passati-bg': '#C3C6E7',
+        'navbar-blue-color': '#BFBCDC'
       },
   },
   plugins: [],

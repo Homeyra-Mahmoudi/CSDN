@@ -171,6 +171,7 @@
   ul.dropdown-menu {
     position: relative;
     top: -3vh;
+    left: 5vh;
     min-width: 0;
     cursor: pointer;
     display: none;
@@ -209,7 +210,7 @@
       padding: 100px;
       align-items: center;
       justify-content: flex-start;
-      background-color: #B07272;
+      background-color:#C4CAEC;
       opacity: 1;
       z-index: 20;
       display: none;
@@ -221,6 +222,9 @@
     }
     ul.nav-links a {
       width: 100%;
+      color:#8E1250;
+      font-weight: 400;
+      font-size: large;
     }
     div#fademenu {
       display: block;
@@ -230,8 +234,18 @@
       top: 0;
       width: 100%;
       height: 100px;
-      margin: 10px;
+
+      margin-left: 30px;
     }
+    div#logo {
+    letter-spacing: 5px;
+    color: #fefefe;
+    font-weight: 800;
+    font-size: 2rem;
+    margin-left:0;
+
+
+  }
   }
   .nav-active {
     transform: translateX(0) !important;

@@ -2,21 +2,23 @@
     <div>
 
     <banner-chi-siamo />
+    <chi-presente /> 
     
     </div>
   </template>
   
   <script>
   import BannerChiSiamo from '../components/ChiSiamo/Banner-chi-siamo.vue';
+  import ChiPresente from '../components/Home/Chi-presente.vue';
 
   export default {
-    components: {  BannerChiSiamo},
+    components: {  BannerChiSiamo, ChiPresente},
 
   }
   </script>
 
 <style>
-.navs-container {
+/* .navs-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -164,7 +166,7 @@
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
-}
+} */
 
 </style>
 
