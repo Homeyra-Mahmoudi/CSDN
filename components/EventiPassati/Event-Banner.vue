@@ -1,13 +1,15 @@
 <template>
-  <div class="lg:container mx-auto">
+  <div class="lg:container mx-auto pl-44 pr-44 ">
     <div class="grid lg:grid-cols-2">
   
-      <div class="basis-1/2 bg-blue-950">
-      <P class="font-Roboto text-5xl text-white font-normal sm:pl-14 sm:pr-8 sm:pt-20">Incontro - Dibattito</P>
-      <p class="font-Roboto text-3xl text-white font-normal sm:pl-14 sm:pr-8 sm:pt-8 sm:pb-1 whitespace-break-spaces ">RIFORMA CARTABIA E RIFLESSI SUL PROCESSO DEL LAVORO
-    </p>
-      <p class="font-Roboto text-xl text-white font-extrathin sm:pl-14 sm:pr-8 whitespace-break-spaces">MERCOLEDI’ 28 GIUGNO 2023, ore 17.00-19.00</p>
-      <p class="font-Roboto text-xl text-white font-extrathin sm:pl-14 sm:pr-8 whitespace-break-spaces">Palazzo di giustizia Maxi Aula 1</p> 
+      <div class="basis-1/2 bg-blue-950 bg-opacity-30 sm:py-4">
+      <P class="font-Roboto md:text-3xl text-white font-normal pl-14 pr-8 pt-4">Incontro - Dibattito</P>
+      <p class="font-Roboto md:text-xl text-white font-normal pl-14 pr-8 pt-2 whitespace-break-spaces ">RIFORMA CARTABIA E RIFLESSI SUL PROCESSO DEL LAVORO</p>
+      <p class="font-Roboto md:text-l text-white font-extrathin pl-14 pr-8 whitespace-break-spaces">GIOVEDÌ 14 DICEMBRE 2023, ore 17.00-20.00</p>
+      <p class="font-Roboto md:text-l text-white font-extrathin pl-14 pr-8 whitespace-break-spaces">Fondazione Fulvio Croce:
+Avvocatura Torinese
+Palazzo Capris
+Via Santa Maria n. 1 - Torino</p> 
       <p class="font-Roboto text-xl text-white font-extrathin sm:pb-2 sm:pt-4 sm:pl-14 sm:pr-8 whitespace-break-spaces">PRESIEDE E MODERA:</p>
       <p class="font-Roboto text-xl text-white font-extrathin sm:pl-14 sm:pr-8 whitespace-break-spaces "><span class="font-bold">Dott.ssa DANIELA PALIAGA</span>, Presidente Centro Studi Sezione Piemonte e
 Presidente della sezione lavoro del Tribunale di Torino</p> 

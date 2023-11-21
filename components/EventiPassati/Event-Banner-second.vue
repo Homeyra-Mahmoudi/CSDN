@@ -1,11 +1,10 @@
 <template>
-    <div class="lg:container mx-auto">
+    <div class="lg:container mx-auto pl-44 pr-44">
       <div class="grid lg:grid-cols-2 ">
     
         <div class="basis-1/2 bg-light-blue-row bg-opacity-50 sm:py-4">
         <P class="font-Roboto md:text-3xl text-black font-normal pl-14 pr-8 pt-4">Incontro - Dibattito</P>
-        <p class="font-Roboto md:text-xl text-black font-normal pl-14 pr-8 pt-2 whitespace-break-spaces ">RIFORMA CARTABIA E RIFLESSI SUL PROCESSO DEL LAVORO
-      </p>
+        <p class="font-Roboto md:text-xl text-black font-normal pl-14 pr-8 pt-2 whitespace-break-spaces ">NUOVE BUONE PRASSI DELLA SEZIONE LAVORO EDEONTOLOGIA</p>
         <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">MERCOLEDI’ 28 GIUGNO 2023, ore 17.00-19.00</p>
         <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">Palazzo di giustizia Maxi Aula 1</p> 
       <p class="font-Roboto md:text-xl text-black font-extrathin pb-2 pt-4 pl-14 pr-8 whitespace-break-spaces">PRESIEDE E MODERA:</p>
