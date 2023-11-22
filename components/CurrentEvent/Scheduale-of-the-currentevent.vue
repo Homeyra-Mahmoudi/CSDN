@@ -61,8 +61,8 @@ Via Santa Maria n. 1 - Torino</p>
             <p class="font-Roboto font-thin lg:text-xl italic text-white text-left ">L'evento è riservato agli associati del Centro Studi e dell’AGI Piemonte Valle dAosta.
                 Per la certificazione dei crediti formativi (gratuita per gli iscritti in regola con la
                 quota 2023) occorre iscrizione tramite mail a: <br>
-                <span class="underline">presidenzapiemonte@giuslavoristi.it</span><br> Per i soci AGI Piemonte e Valle d'Aosta e
-                a: <br> <span class="underline ">rcarapelle@carapelle-clivio.it</span><br> Per i soci del Centro Studi.
+                <a class="underline" href="mailto:rcarapelle@carapelle-clivio.it">presidenzapiemonte@giuslavoristi.it</a><br> Per i soci AGI Piemonte e Valle d'Aosta e
+                a: <br> <a class="underline" href="mailto:rcarapelle@carapelle-clivio.it">rcarapelle@carapelle-clivio.it</a><br> Per i soci del Centro Studi.
                 Per limiti di accesso al locale la partecipazione in presenza sarà riservata ai
 membri dei due direttivi ed ai primi 80 iscritti.
 L'evento è in corso di accreditamento presso il COA di Torino per crediti in

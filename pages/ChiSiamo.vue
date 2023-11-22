@@ -2,17 +2,17 @@
     <div>
 
     <banner-chi-siamo />
-    <chi-presente /> 
+
     
     </div>
   </template>
   
   <script>
   import BannerChiSiamo from '../components/ChiSiamo/Banner-chi-siamo.vue';
-  import ChiPresente from '../components/Home/Chi-presente.vue';
+
 
   export default {
-    components: {  BannerChiSiamo, ChiPresente},
+    components: {  BannerChiSiamo},
 
   }
   </script>

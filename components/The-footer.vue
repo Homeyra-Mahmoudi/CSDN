@@ -5,15 +5,15 @@
     </div>
     <div class="col-span-1 sm:pt-10 pb-4">
         <p class="font-Roboto lg:text-2xl text-white text-extrabold pb-4 ">Conttati</p>
-        <p class="font-Roboto lg:text-xl text-white  text-light">Segreteria del Centro Studi, Via San Pio  V n. 20-10125 TORINO Tel. 011/669.28.48-650.81.97 Fax 011/74.32.141</p>
-        <p class="font-Roboto lg:text-xl text-white text-light">rcarapelle@carapelle-clivio.it</p>
+        <p class="font-Roboto lg:text-l text-white  text-light">Segreteria del Centro Studi, Via San Pio  V n. 20-10125 TORINO Tel. 011/669.28.48-650.81.97 Fax 011/74.32.141</p>
+        <a class="font-Roboto lg:text-l text-white text-light underline" href="mailto:rcarapelle@carapelle-clivio.it">rcarapelle@carapelle-clivio.it</a>
     </div>
     <div class="col-span-1  sm:pt-10 pb-4">
         <p class="font-Roboto lg:text-2xl text-white text-extrabold pb-4">Quick Links</p>
         <ul class="list-none">
-            <li><nuxt-link class="font-Roboto lg:text-xl text-white  text-light" to="/">Home</nuxt-link></li>
-            <li><nuxt-link class="font-Roboto lg:text-xl text-white  text-light" to="/ChiSiamo">Chi Siamo</nuxt-link></li>
-            <li><nuxt-link class="font-Roboto lg:text-xl text-white text-light" to="/EventiPassati">Eventi Passati</nuxt-link></li>
+            <li><nuxt-link class="font-Roboto lg:text-l text-white  text-light" to="/">Home</nuxt-link></li>
+            <li><nuxt-link class="font-Roboto lg:text-l text-white  text-light" to="/ChiSiamo">Chi Siamo</nuxt-link></li>
+            <li><nuxt-link class="font-Roboto lg:text-l text-white text-light" to="/EventiPassati">Eventi Passati</nuxt-link></li>
         </ul>
     </div>
   </div>
