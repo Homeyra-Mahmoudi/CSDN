@@ -21,15 +21,12 @@ import EventBannerSecondVue from '~/components/EventiPassati/Event-Banner-second
 
 
 
-
 export default {
-  components: { EventBannerSecondVue, MediaLinkSecond},
+  components: { EventBannerSecondVue, MediaLinkSecond },
   layout: 'default'
-
 }
 </script>
 
 <style>
-
 
 </style>

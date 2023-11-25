@@ -1,7 +1,7 @@
 <template>
   <div class="grid sm:grid-cols-3 sm:gap-cols-4 realtive bg-footer-blue-dark md:pl-44 md:pr-44 pl-4 pr-4">
     <div class="invisible lg:visible  col-span-1 lg:pt-10 lg:pb-10">
-        <img  src="/Logo-new-CSDN.png" alt="Logo" />
+        <img  src="/CSDN-logo.png" alt="Logo" />
     </div>
     <div class="col-span-1 sm:pt-10 pb-4">
         <p class="font-Roboto lg:text-2xl text-white text-extrabold pb-4 ">Conttati</p>

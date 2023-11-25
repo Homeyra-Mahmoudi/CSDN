@@ -2,7 +2,7 @@ export default {
   target: 'static',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'csdn',
+    title: 'CSDN-Sezione Piemonte',
     htmlAttrs: {
       lang: 'en',
     },
@@ -12,7 +12,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/CSDN-logo.png' }],
   },
   generate: {
     routes: ['/', '/ChiSiamo', '/EventiPassati', '/CurrentEvent']

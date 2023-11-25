@@ -1,5 +1,5 @@
 <template>
-    <div class="lg:container mx-auto pl-44 pr-44">
+    <div class="lg:container mx-auto pl-38 pr-38">
       <div class="grid lg:grid-cols-2 ">
     
         <div class="basis-1/2 bg-light-blue-row bg-opacity-50 sm:py-4">
@@ -8,8 +8,7 @@
         <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">MERCOLEDI’ 28 GIUGNO 2023, ore 17.00-19.00</p>
         <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces">Palazzo di giustizia Maxi Aula 1</p> 
       <p class="font-Roboto md:text-xl text-black font-extrathin pb-2 pt-4 pl-14 pr-8 whitespace-break-spaces">PRESIEDE E MODERA:</p>
-      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Dott.ssa DANIELA PALIAGA</span>, Presidente Centro Studi Sezione Piemonte e
-Presidente della sezione lavoro del Tribunale di Torino</p> 
+      <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Dott.ssa DANIELA PALIAGA</span>, Presidente Centro Studi Sezione Piemonte e Presidente della sezione lavoro del Tribunale di Torino</p> 
 <p class="font-Roboto md:text-xl text-black font-extrathin pb-2 pt-4 pl-14 pr-8 whitespace-break-spaces">RELAZIONANO:</p>
       <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Prof. Avv.to Giorgio Frus, Foro di Torino</span></p>
       <p class="font-Roboto md:text-l text-black font-extrathin pl-14 pr-8 whitespace-break-spaces "><span class="md:font-bold">Dr. Mauro Mollo, Magistrato Tribunale di Torino Sezione Lavoro</span></p>

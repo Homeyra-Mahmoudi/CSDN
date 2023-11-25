@@ -13,14 +13,7 @@
         {
           name: 'Eventi Passati',
           link: '/EventiPassati',
-          dropdown: true,
-          dropdownLinks: [
-            {
-              name: 'Current Event',
-              link: '/CurrentEvent',
-              dropdown: false
-            }
-          ]
+          dropdown: false,
         }
       ]"
     ></Headers>
