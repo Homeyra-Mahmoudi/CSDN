@@ -7,13 +7,25 @@
           link: '/',
           dropdown: false,
         },
-
-        { name: 'Chi Siamo', link: '/ChiSiamo', dropdown: false },
-
         {
           name: 'Eventi Passati',
           link: '/EventiPassati',
           dropdown: false,
+        },
+
+        { name: 'Chi Siamo', link: '/ChiSiamo', dropdown: true, 
+        dropdownLinks: [
+            {
+              name: 'Gli Associati',
+              link: '/GliAssociati',
+              dropdown: false
+            }, 
+            {
+              name: 'Statuto',
+              link: '/Statuto',
+              dropdown: false
+            }
+          ]
         }
       ]"
     ></Headers>

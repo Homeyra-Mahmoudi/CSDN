@@ -1,18 +1,15 @@
 <template>
 
-<div class="grid lg:grid-cols-2 pl-44 pr-44">
+<div class="grid lg:grid-cols-2 md:pl-44 md:pr-44">
     <div class="bg-navbar-blue-color text-white py-10 px-4">
       <h1 class="font-Roboto md:text-3xl text-black font-normal pb-2">Chi Siamo</h1>
-      <p class="text-l font-light font-Roboto italic text-black">
-        Benvenuti nella pagina "Chi Siamo" del Centro Studio di Diritto del Lavoro.
-        Siamo un'organizzazione dedicata alla promozione della conoscenza e della ricerca nel campo del diritto del lavoro.
-        Il nostro obiettivo è contribuire all'approfondimento e alla diffusione delle tematiche legate al mondo del lavoro.
-        </p>
-        <p class="text-l font-light font-Roboto italic text-black">
-        Collaboriamo con esperti legali, accademici e professionisti per organizzare eventi, conferenze e seminari che favoriscano
-        la condivisione di conoscenze e l'analisi delle ultime novità nel settore.
-        </p>
+      <p class="text-l font-light font-Roboto italic text-black whitespace-break-spaces">Il Centro Studio di Diritto del Lavoro è un'associazione, composta da magistrati, avvocati, professori universitari e consulenti del lavoro, dedicata alla promozione della conoscenza e della ricerca nel campo del diritto del lavoro. Il nostro obiettivo è contribuire all'approfondimento e alla diffusione delle tematiche legate al mondo del lavoro.
+Il Centro Studi è nato nel 1971 e la Sezione Piemonte è stata istituita nel 1991.
 
+Collaboriamo con magistrati, accademici e professionisti per organizzare eventi, conferenze e seminari che favoriscano la condivisione di conoscenze e l'analisi delle ultime novità nel settore, sia legali che giurisprudenziali sia legate alle prassi degli uffici giudiziari.
+
+Ogni anno la Sezione Piemonte del CSDN conferisce il premio Carlo Russo, in onore della memoria dell’avvocato fondatore della sezione piemontese
+        </p>
       <a class="text-footer-black-darker font-thin rounded-lg font-Roboto lg:text-base underline" href="https://www.temporary-url.com/404.php" >ATTO COSTITUTIVO DI ASSOCIAZTONE.PDF</a>
 
   </div>

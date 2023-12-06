@@ -15,7 +15,7 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/CSDN-logo.png' }],
   },
   generate: {
-    routes: ['/', '/ChiSiamo', '/EventiPassati', '/CurrentEvent']
+    routes: ['/', '/ChiSiamo', '/EventiPassati', '/CurrentEvent', '/Statuto', '/GliAssociati']
   },
 
   // router: {
