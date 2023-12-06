@@ -8,9 +8,8 @@ Il Centro Studi è nato nel 1971 e la Sezione Piemonte è stata istituita nel 19
 
 Collaboriamo con magistrati, accademici e professionisti per organizzare eventi, conferenze e seminari che favoriscano la condivisione di conoscenze e l'analisi delle ultime novità nel settore, sia legali che giurisprudenziali sia legate alle prassi degli uffici giudiziari.
 
-Ogni anno la Sezione Piemonte del CSDN conferisce il premio Carlo Russo, in onore della memoria dell’avvocato fondatore della sezione piemontese
+Ogni anno la Sezione Piemonte del CSDN conferisce il premio Carlo Russo, in onore della memoria dell’avvocato fondatore della sezione piemontese.
         </p>
-      <a class="text-footer-black-darker font-thin rounded-lg font-Roboto lg:text-base underline" href="https://www.temporary-url.com/404.php" >ATTO COSTITUTIVO DI ASSOCIAZTONE.PDF</a>
 
   </div>
   <div class="basis-1/2 ">
