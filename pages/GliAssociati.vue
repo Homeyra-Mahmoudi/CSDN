@@ -8,10 +8,16 @@
 import ChiPresente from '../components/Home/Chi-presente.vue';
 
 
-export default{
+export default {
     components:{ChiPresente},
-
     layout: 'default',
+    
+  head() {
+    return {
+      title: "CSDN Piemonte - Associati"
+    };
+    }
+
 }
 
 </script>

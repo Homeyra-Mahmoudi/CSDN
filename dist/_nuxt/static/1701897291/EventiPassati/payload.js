@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/EventiPassati", {data:[{}],fetch:{},mutations:void 0});

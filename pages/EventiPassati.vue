@@ -23,7 +23,12 @@ import EventBannerSecondVue from '~/components/EventiPassati/Event-Banner-second
 
 export default {
   components: { EventBannerSecondVue, MediaLinkSecond },
-  layout: 'default'
+  layout: 'default',
+  head() {
+    return {
+      title: "CSDN Piemonte - Archivio Eventi"
+    };
+  }
 }
 </script>
 

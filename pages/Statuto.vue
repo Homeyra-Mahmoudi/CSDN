@@ -1,22 +1,15 @@
 <template>
-    <div>
-        <ScorpiPassatiEventi/>
-        <CardEventiPassati/>
-
-
-
-
-
+    <div class="w-full flex justify-center">
+        <PDFStatuto/>
     </div>
 </template>
 
 <script>
-import ScorpiPassatiEventi from '~/components/Home/scorpi-passati-eventi.vue'
-import CardEventiPassati from '~/components/Home/card-eventi-passati.vue'
+import PDFStatuto from '../components/PDF-Statuto.vue';
 
 
 export default{
-    components:{ScorpiPassatiEventi, CardEventiPassati},
+    components:{PDFStatuto},
 
     layout: 'default',
 }

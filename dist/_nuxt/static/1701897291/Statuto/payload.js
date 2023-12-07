@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/Statuto", {data:[{}],fetch:{},mutations:void 0});

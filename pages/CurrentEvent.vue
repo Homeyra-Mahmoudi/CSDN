@@ -13,7 +13,12 @@ import SchedualeOfTheCurrentevent from '../components/CurrentEvent/Scheduale-of-
 
 export default {
   components: { SchedualeOfTheCurrentevent},
-  layout: 'default'
+  layout: 'default', 
+  head() {
+    return {
+      title: "CSDN Piemonte - Prossimo Evento"
+    };
+    }
 
 }
 </script>

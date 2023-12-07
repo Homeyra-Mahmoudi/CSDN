@@ -3,6 +3,7 @@
 
     <banner-chi-siamo />
 
+
     
     </div>
   </template>
@@ -11,8 +12,15 @@
   import BannerChiSiamo from '../components/ChiSiamo/Banner-chi-siamo.vue';
 
 
+
   export default {
     components: {  BannerChiSiamo},
+    layout: 'default', 
+    head() {
+      return {
+        title: " CSDN Piemonte - Chi Siamo"
+      };
+      }
 
   }
   </script>
