@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import PDFStatuto from '../components/PDF-Statuto.vue';
+import PDFStatuto from '~/components/PDF-Statuto.vue';
 
 
 export default{

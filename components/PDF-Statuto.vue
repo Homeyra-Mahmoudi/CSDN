@@ -5,7 +5,7 @@
           v-for="i in 14"
           :key="i"
           class="w-full"
-          src="./Statutoo.pdf"
+          src="Statutoo.pdf"
           :page="i"
         ></pdf>
     </client-only>
