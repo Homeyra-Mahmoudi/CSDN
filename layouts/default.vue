@@ -13,14 +13,7 @@ c<template>
           dropdown: false,
         },
 
-        { name: 'Chi Siamo', link: '/ChiSiamo', dropdown: true, 
-        dropdownLinks: [
-            {
-              name: 'Statuto',
-              link: '/Statuto',
-              dropdown: false
-            }
-          ]
+        { name: 'Chi Siamo', link: '/ChiSiamo', dropdown: false, 
         }
       ]"
     ></Headers>
