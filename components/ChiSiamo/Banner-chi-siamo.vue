@@ -11,7 +11,7 @@ Collaboriamo con magistrati, accademici e professionisti per organizzare eventi,
 Ogni anno la Sezione Piemonte del CSDN conferisce il premio Carlo Russo, in onore della memoria dell’avvocato fondatore della sezione piemontese.
         </p>
         <router-link to="/Statuto">
-          <button class="text-white font-thin p-2 rounded-lg bg-blue-950 font-Roboto lg:text-lg mt-4">Leggi il statuto</button>
+          <a class="text-black font-bold p-2 underline hover:text-sky-700 font-Roboto lg:text-lg mt-4">Statuto</a>
         </router-link>
 
   </div>
