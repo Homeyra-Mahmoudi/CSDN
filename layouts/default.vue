@@ -15,7 +15,7 @@ c<template>
 
         { name: 'Chi Siamo', link: '/ChiSiamo', dropdown: true,
         dropdownLinks: [
-          {name: 'Associati', link: '/GliAssociati', dropdown: false }
+          {name: 'Direttivo e Associati', link: '/GliAssociati', dropdown: false }
         ] 
         },
         {

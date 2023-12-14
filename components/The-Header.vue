@@ -9,11 +9,11 @@
 
       <ul class="nav-links">
       <li v-for="list in navLinks" :key="list.key">
-        <a v-if="list.dropdown === false" :href="list.link">{{ list.name }}</a>
+        <a v-if="list.dropdown === false" :href="list.link" :target="list.name === 'Area Riservata' ? '_blank' : '_self'">{{ list.name }}</a>
         <div class="dropdown-link" v-else>
           <a :href="list.link">
             {{ list.name }}
-            <span style="position: absolute">&#xfe40;</span>
+            <span style="position: absolute"></span>
           </a>
           <ul class="dropdown-menu">
             <li v-for="item in list.dropdownLinks" :key="item.key">
@@ -232,8 +232,9 @@
       position: relative;
       top: 0;
       width: 100%;
-      padding: 20px;
-      height: 100px;
+      padding-top:2px;
+      padding-bottom:2px;
+      height: 70px;
       margin-left: 30px;
     }
     div#logo {
