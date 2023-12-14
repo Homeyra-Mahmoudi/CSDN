@@ -1,0 +1,1 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[22],{330:function(t,e,n){"use strict";n.r(e);var l={components:{ChiPresente:n(326).default},layout:"default",head:function(){return{title:"CSDN Piemonte - Associati"}}},o=n(15),component=Object(o.a)(l,(function(){var t=this._self._c;return t("div",[t("ChiPresente")],1)}),[],!1,null,null,null);e.default=component.exports}}]);

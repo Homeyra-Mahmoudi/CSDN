@@ -6,8 +6,8 @@
       <br></br>
       <p class="font-Roboto lg:text-lg text-white md:font-bold">INCONTRO - DIBATTITO</p>
       <p class="font-Roboto lg:text-lg text-white font-thin">GIOVEDÌ 14 DICEMBRE 2023, ore 17.00-20.00</p>
-      <p class="font-Roboto lg:text-lg text-white font-thin ">Presiedono: dott.ssa Clotilde Fierro, avv. Giovanna Pacchiana Parravicini, dott.ssa Daniela Paliaga 
-Avv.to Paolo BERTI, Consigliere dell’Ordine degli Avvocati di Torino “Le buone prassi e la deontologia dell’Avvocato”</p>
+      <p class="font-Roboto lg:text-lg text-white font-thin whitespace-break-spaces ">Presiedono: dott.ssa Clotilde Fierro, avv. Giovanna Pacchiana Parravicini, dott.ssa Daniela Paliaga 
+Relazione: Avv.to Paolo BERTI, Consigliere dell’Ordine degli Avvocati di Torino “Le buone prassi e la deontologia dell’Avvocato”</p>
       <router-link to="/CurrentEvent">
         <button class="text-white font-thin p-2 rounded-lg bg-blue-950 font-Roboto lg:text-lg mt-4">Scopri di più ></button>
       </router-link>

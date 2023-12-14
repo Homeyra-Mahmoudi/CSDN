@@ -20,7 +20,7 @@ Via Santa Maria n. 1 - Torino</p>
             <p class="font-Roboto font-bold text-3xl italic text-white text-left">Apertura dei lavori</p> -->
             <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Dr.ssa CLOTILDE FIERRO</span>, Presidente Corte d'Appello Sezione Lavoro di Torino</p>
             <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Avv.to GIOVANNA PACCHIANA PARRAVICINI</span>, Presidente AGI Piemonte Valle d'Aosta</p>
-            <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Dott.ssa DANIELA PALIAGA,</span>, Presidente Centro Studi Sezione Piemonte e Presidente della Sezione Lavoro del Tribunale di Torino</p>
+            <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Dott.ssa DANIELA PALIAGA</span>, Presidente Centro Studi Sezione Piemonte e Presidente della Sezione Lavoro del Tribunale di Torino</p>
             <!-- <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 12.30 - 12.45 </p>
             <p class="font-Roboto font-bold text-3xl italic text-white text-left sm:pb-14">Prenotazione interventi </p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 12.45 - 13.45 </p>
@@ -34,7 +34,7 @@ Via Santa Maria n. 1 - Torino</p>
             <p class="font-Roboto font-bold text-3xl italic text-white text-left sm:pb-14">Registrazione partecipanti</p>
             <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 10.45</p>
             <p class="font-Roboto font-bold text-3xl italic text-white text-left">Apertura dei lavori</p> -->
-            <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Avv.to Paolo BERTI,</span>Consigliere dell’Ordine degli Avvocati di Torino “Le buone prassi e la deontologia dell’Avvocato”</p>
+            <p class="font-Roboto font-thin lg:text-xl  italic text-white text-left "><span class="font-bold">Avv.to Paolo BERTI</span>, Consigliere dell’Ordine degli Avvocati di Torino “Le buone prassi e la deontologia dell’Avvocato”</p>
             <!-- <p class="font-Roboto font-thin text-xl italic text-white text-left "><span class="font-bold">Avv.to GIOVANNA PACCHIANA PARRAVICINI</span>, Presidente AGI Piemonte Valle d'Aosta</p>
             <p class="font-Roboto font-thin text-xl italic text-white text-left "><span class="font-bold">Dott.ssa DANIELA PALIAGA,</span>, Presidente Centro Studi Sezione Piemonte e Presidente della Sezione avoro del Tribunale di Torino</p> -->
             <!-- <p class="font-Roboto font-thin text-2xl italic text-white text-left">Ore 12.30 - 12.45 </p>
