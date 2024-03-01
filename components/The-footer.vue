@@ -8,7 +8,7 @@
           <p class="font-Roboto lg:text-2xl text-white text-extrabold pb-4 ">Contatti</p>
           <p class="font-Roboto lg:text-l text-white text-light whitespace-break-spaces">Segreteria del Centro Studi, Via San Pio V n. 20-10125 TORINO 
   Tel. 011/669.28.48-650.81.97 Fax 011/74.32.141</p>
-          <a class="font-Roboto lg:text-l text-white text-light underline" href="mailto:rcarapelle@carapelle-clivio.it">rcarapelle@carapelle-clivio.it</a>
+          <a class="font-Roboto lg:text-l text-white text-light underline" href="mailto:rcarapelle@carapelle-clivio.it">info@csdnpiemonte.it</a>
       </div>
       <div class="col-span-1 lg:pl-16 pl-2 sm:pt-10 pb-4">
           <p class="font-Roboto lg:text-2xl text-white text-extrabold pb-4">Quick Links</p>

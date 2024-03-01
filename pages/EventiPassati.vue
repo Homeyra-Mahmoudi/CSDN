@@ -3,8 +3,9 @@
 
     <!-- 
     <media-link  /> -->
+  
       <event-banner-second-vue />
-      <media-link-second />
+
 
     </div>
   
@@ -15,14 +16,15 @@
 
 <script>
 
-import MediaLinkSecond from '~/components/EventiPassati/Link-media-second.vue'
+
 import EventBannerSecondVue from '~/components/EventiPassati/Event-Banner-second.vue'
 
 
 
 
+
 export default {
-  components: { EventBannerSecondVue, MediaLinkSecond },
+  components: { EventBannerSecondVue},
   layout: 'default',
   head() {
     return {
